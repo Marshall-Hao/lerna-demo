@@ -1,0 +1,22 @@
+{
+  "name": "pac-3",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Marshall Chan <marshallchan666@outlook.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/pac-3.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "pac-2": "^0.0.0"
+  }
+}
